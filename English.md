@@ -10,5 +10,8 @@
 6. We do not ask for location information through our mobile application.
 7. We do not send newsletters by e-mail.
 
+Play market: https://play.google.com/store/apps/developer?id=gHashTag
+App Store: https://apps.apple.com/ru/developer/play-ra/id857600170
+
 Contacts
 e-mail: raoffonom [AT] icloud.com
