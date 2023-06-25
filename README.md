@@ -8,5 +8,5 @@
 6. We do not ask for location information through our mobile app.
 7. We do not send email newsletters.
 
-Contacts
+Contacts:
 e-mail: raoffonom[AT]icloud.com
