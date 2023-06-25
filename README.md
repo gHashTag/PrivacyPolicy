@@ -1,6 +1,4 @@
-#PrivacyPolicy
-
-#### Privacy Policy
+## Privacy Policy
 
 1. The term “personal information” as used herein is defined as any information that identifies or can be used to identify, contact or locate the person to whom such information relates. The personal information we collect will be subject to this privacy policy, as amended from time to time.
 2. We do not ask for your email address, phone number or any information about you.
