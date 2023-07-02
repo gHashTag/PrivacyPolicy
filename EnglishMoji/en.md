@@ -30,7 +30,7 @@ By using our app, you hereby agree to our Privacy Policy and agree to its terms.
 
 
 ## 7. Developer information
-Englishmoji is developed and maintained by a company dao999nft We are constantly working to improve our app and appreciate the feedback from our users.
+Englishmoji is developed and maintained by a company [dao999nft](https://dao999nft.com/) We are constantly working to improve our app and appreciate the feedback from our users.
 
 ## 8. Contact Information
 If you have questions or comments about our privacy policy, please contact us: raoffonom[at]icloud.com
