@@ -28,8 +28,21 @@ This privacy policy applies only to our online activities and is valid for visit
 
 By using our app, you hereby agree to our Privacy Policy and agree to its terms.
 
-The Privacy Policy is available at [active, visible URL] and it is not editable. This policy applies specifically to the privacy of users of our Englishmoji app.
+
+## 7. Developer information
+Englishmoji is developed and maintained by a company dao999nft We are constantly working to improve our app and appreciate the feedback from our users.
+
+## 8. Contact Information
+If you have questions or comments about our privacy policy, please contact us: raoffonom[at]icloud.com
+
+
+## Submission of requests
+If you wish to request access, rectification, deletion or restriction of the processing of your personal data, or if you wish to object to the processing of your personal data, please contact us at the email address above.
+
+The Privacy Policy is available at [active, visible URL](https://raw.githubusercontent.com/gHashTag/PrivacyPolicy/master/EnglishMoji/en.md) and it is not editable. This policy applies specifically to the privacy of users of our Englishmoji app.
 
 ---
 
 Please note that this is only a general sample of the privacy policy and additional legal advice may be required to meet all requirements in your country or region.
+
+
